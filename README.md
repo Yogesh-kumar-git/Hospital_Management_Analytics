@@ -42,45 +42,7 @@ This project delivers a **360-degree analytics solution** for a hospital managem
 | **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) | EDA, Data Cleaning, ML Modeling |
 | **SQL** (PostgreSQL-compatible) | Business queries, KPI extraction, window functions |
 | **Excel** | Pivot tables, financial dashboards, conditional formatting |
-| **Power BI** | Interactive executive dashboard (DAX, slicers, drill-throughs) |
-| **Machine Learning** | LOS Prediction (Regression), Readmission Risk (Classification), Revenue Segmentation (Clustering) |
-
----
-
-## 📁 Project Structure
-
-```
-Hospital-Management-Analytics/
-│
-├── 📂 data/
-│   └── Hospital_Management_10k_Records.csv      # Raw dataset
-│
-├── 📂 notebooks/
-│   ├── 01_Data_Cleaning_EDA.py                  # Full EDA & cleaning pipeline
-│   ├── 02_Patient_Analytics.py                  # Patient demographics & trends
-│   └── 03_Financial_Analytics.py               # Revenue, billing & payment analysis
-│
-├── 📂 sql/
-│   └── hospital_analytics_queries.sql           # 20+ business SQL queries
-│
-├── 📂 ml/
-│   ├── 01_length_of_stay_prediction.py          # Regression model (LOS)
-│   ├── 02_readmission_risk_classification.py    # Classification model
-│   └── 03_patient_segmentation_clustering.py   # K-Means clustering
-│
-├── 📂 powerbi/
-│   └── PowerBI_Dashboard_Guide.md              # DAX measures & dashboard setup
-│
-├── 📂 excel/
-│   └── Excel_Analysis_Guide.md                 # Pivot table & formula guide
-│
-├── 📂 reports/
-│   └── Executive_Summary.md                    # Business insights & recommendations
-│
-└── README.md
-```
-
----
+| **Power BI** | Interactive executive dashboard (KPI Analysis slicers, drill-throughs) |
 
 ## 🔍 Key Business Questions Answered
 
@@ -104,14 +66,6 @@ Hospital-Management-Analytics/
 - How does feedback rating vary across departments and diseases?
 - Which doctors receive the highest patient ratings?
 
-### 🤖 Machine Learning
-| Model | Type | Target | Accuracy |
-|---|---|---|---|
-| Length of Stay Predictor | Regression | Days admitted | ~85% R² |
-| Readmission Risk | Classification | Surgery required (proxy) | ~83% F1 |
-| Patient Segmentation | Clustering | Revenue & age groups | 4 clusters |
-
----
 
 ## 📊 Key Insights
 
@@ -124,47 +78,12 @@ Hospital-Management-Analytics/
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/Hospital-Management-Analytics.git
-cd Hospital-Management-Analytics
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run EDA
-python notebooks/01_Data_Cleaning_EDA.py
-
-# 4. Run ML models
-python ml/01_length_of_stay_prediction.py
-python ml/02_readmission_risk_classification.py
-python ml/03_patient_segmentation_clustering.py
-```
-
----
-
-## 📦 Requirements
-
-```
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-seaborn>=0.12
-scikit-learn>=1.3
-plotly>=5.15
-```
-
----
-
 ## 👤 Author
 
-**[Your Name]**
+**[Yogesh Kumar]**
 Business Analyst | Data Analyst | ML Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yogesh-kumar-362324298)
 
 ---
 
