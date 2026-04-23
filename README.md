@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?logo=powerbi)
-![ML](https://img.shields.io/badge/ML-Scikit--Learn-orange?logo=scikit-learn)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
 ![Records](https://img.shields.io/badge/Records-10%2C000-red)
 
