@@ -79,7 +79,7 @@ This project delivers a **360-degree analytics solution** for a hospital managem
 
 ## 👤 Author
 
-**[Yogesh Kumar]**
+**Yogesh Kumar**
 Business Analyst | Data Analyst | ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yogesh-kumar-362324298)
