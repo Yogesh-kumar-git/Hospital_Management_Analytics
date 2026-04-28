@@ -5,8 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?logo=powerbi)
-![Records](https://img.shields.io/badge/Records-10%2C000-red)
-
 ---
 
 ## 📌 Project Overview
