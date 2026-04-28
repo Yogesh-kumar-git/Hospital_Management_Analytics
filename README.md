@@ -74,7 +74,7 @@ This project delivers a **360-degree analytics solution** for a hospital managem
 
 ---
 
-## 👤 Author
+## 🔗 About Me
 
 **Yogesh Kumar**
 Business Analyst | Data Analyst | ML Enthusiast
